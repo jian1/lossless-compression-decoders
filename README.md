@@ -39,7 +39,7 @@ Example
 	./benchmark/Bitstream/RLE_32bit/compress_1 
 			output of the rle software encoder.
 	./benchmark/Bitstream/RLE_32bit/compress_1_hw 
-			modify the output of the rle software encoder for hardware evaluation..
+			modify the output of the rle software encoder for hardware evaluation.
 ----------------------------------------------------------------------------------------------------------
 
 
