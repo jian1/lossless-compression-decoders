@@ -55,9 +55,9 @@ Usage
 -------------------------------------------------------------
 1. Open the Vivado HLS Command Prompt.
 
-On Windows, use Start > All Programs > Xilinx Design Tools > Vivado 2015.4 >Vivado HLS > Vivado HLS 2015.4 Command Prompt.
+  On Windows, use Start > All Programs > Xilinx Design Tools > Vivado 2015.4 >Vivado HLS > Vivado HLS 2015.4 Command Prompt.
 
-On Linux, open a new shell.
+  On Linux, open a new shell.
 
 2. Change directory to the corresponding directory
 
