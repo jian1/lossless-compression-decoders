@@ -3,10 +3,8 @@ Synthesizable lossless compression decoders
 
 Introduction
 ------------
-This software package contains source code of synthesizable C/C++ code version of lossless compression decoders. 
-The source code is largely modified and rewritten based on the Reference Software codes, i.e. High-level Synthesis tools are able to synthesize the source code to RTL. 
-The decoders accept modified compressed data as input and raw data as output.
-This software package also provides the TCL script which automatically run the HLS and RTL cosimulation process for the RTL lossless compression decoders.
+	This software package contains source code of synthesizable C/C++ code version of lossless compression decoders.
+	The source code is largely modified and rewritten based on the Reference Software codes, i.e. High-level Synthesis tools are able to synthesize the source code to RTL. The decoders accept modified compressed data as input and raw data as output. This software package also provides the TCL script which automatically run the HLS and RTL cosimulation process for the RTL lossless compression decoders.
 
 
 
@@ -41,7 +39,7 @@ The modified compressed files and raw files are provided.
 
 
 
-HLS tool requirement
+HLS tool requirement	
 --------------------
 This code is tested under Xilinx Vivado High-level Synthesis (HLS) tool version 2015.4.  
 Please make sure Vivado HLS is installed and make sure command line `vivado_hls` takes effect by updating your environment variable PATH.
