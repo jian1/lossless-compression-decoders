@@ -13,7 +13,7 @@ Reference Software codes
 ----------------
 1.Run length encoding/decoding reference software. (2013) Available: https://sourceforge.net/projects/nikkhokkho/files/RLE64/
 
-2.LZ77 reference software. (2004) Available: https://sourceforge.net /projects/compressions/
+2.LZ77 reference software. (2004) Available: https://sourceforge.net/projects/compressions/
 
 3.LZSS reference software. Available: https://oku.edu.mie-u.ac.jp/~okumura/compression/lzss.c
 
